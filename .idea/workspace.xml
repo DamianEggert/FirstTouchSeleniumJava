@@ -38,9 +38,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+  <component name="RunManager" selected="Application.TestCaseFirefox">
+    <configuration name="TestCaseChrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCaseChrome" />
+      <module name="FirstTouchSeleniumJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCaseFirefox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCaseFirefox" />
       <module name="FirstTouchSeleniumJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -48,7 +55,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.TestCaseFirefox" />
+        <item itemvalue="Application.TestCaseChrome" />
       </list>
     </recent_temporary>
   </component>

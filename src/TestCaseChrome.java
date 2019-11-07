@@ -13,5 +13,13 @@ public class TestCaseChrome {
         // action
         driver.get("http://google.com");
         System.out.println(driver.getTitle());
+        //System.out.println(driver.getCurrentUrl());
+        //System.out.println(driver.getPageSource());
+
+        driver.get("http://wp.pl");
+        driver.navigate().back();
+        driver.navigate().forward();
+        driver.close(); // close current browser
+        driver.quit(); // close all browsers run by selenium
     }
 }

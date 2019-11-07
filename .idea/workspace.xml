@@ -38,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestCaseFirefox">
+  <component name="RunManager" selected="Application.TestCaseChrome">
     <configuration name="TestCaseChrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestCaseChrome" />
       <module name="FirstTouchSeleniumJava" />
@@ -55,8 +55,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestCaseFirefox" />
         <item itemvalue="Application.TestCaseChrome" />
+        <item itemvalue="Application.TestCaseFirefox" />
       </list>
     </recent_temporary>
   </component>

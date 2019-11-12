@@ -38,7 +38,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestLogin">
+  <component name="RunManager" selected="Application.Ex1">
+    <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1" />
+      <module name="FirstTouchSeleniumJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCaseChrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestCaseChrome" />
       <module name="FirstTouchSeleniumJava" />
@@ -62,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.TestLogin" />
         <item itemvalue="Application.TestCaseChrome" />
         <item itemvalue="Application.TestCaseFirefox" />

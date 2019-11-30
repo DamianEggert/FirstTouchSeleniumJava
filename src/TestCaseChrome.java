@@ -21,5 +21,7 @@ public class TestCaseChrome {
         driver.navigate().forward();
         driver.close(); // close current browser
         driver.quit(); // close all browsers run by selenium
+
+
     }
 }
